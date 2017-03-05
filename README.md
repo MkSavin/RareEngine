@@ -1,2 +1,2 @@
 # RareEngine
-Advanced Game Engine. Witch is creating by Community
+Advanced Game Engine. Which is creating by Community
