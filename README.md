@@ -1,2 +1,2 @@
 # RareEngine
-Advanced Game Engine. Which is creating by Community
+Advanced Game Engine created by the community
